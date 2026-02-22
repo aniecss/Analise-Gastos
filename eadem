@@ -1,0 +1,34 @@
+📊 Análise de Gastos Pessoais com Python
+📌 Sobre o Projeto
+
+A dificuldade em poupar dinheiro muitas vezes não está na renda, mas na falta de visibilidade sobre como os gastos se acumulam ao longo do tempo.
+
+Este projeto realiza uma análise exploratória de dados (EDA) sobre seis meses de gastos pessoais, utilizando Python e Pandas, com o objetivo de identificar padrões de consumo, categorias mais impactantes no orçamento e oportunidades reais de otimização financeira.
+
+A pergunta central do projeto é:
+
+Para onde o dinheiro realmente vai ao longo do mês?
+
+🎯 Objetivos
+
+Identificar as categorias com maior impacto financeiro
+
+Analisar frequência de transações e ticket médio
+
+Avaliar padrões de consumo ao longo do tempo
+
+Entender o impacto de gastos recorrentes
+
+Gerar insights práticos baseados em dados
+
+🛠️ Tecnologias Utilizadas
+
+Python
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Jupyter Notebook
